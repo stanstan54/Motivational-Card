@@ -1,0 +1,32 @@
+html {
+    background-color: black;
+}
+
+.inspire-card {
+    width: 50%;
+    margin: 25%;
+    margin-top: 25%;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+
+.img {
+    width: 100%;
+    border: 10px solid gold;
+}
+
+h1 {
+    color: antiquewhite;
+    text-align: center;
+    margin-left: 25px;
+    text-transform: capitalize;
+    font-size: 3rem;
+}
+
+p {
+    color: antiquewhite;
+    text-align: center;
+    margin-left: 25px;
+    text-transform: capitalize;
+}
